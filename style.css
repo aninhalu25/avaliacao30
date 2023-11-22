@@ -27,3 +27,7 @@ img{
     list-style: none;
     padding-left: 70px;
 }
+header li {
+    display: inline;
+    text-transform: uppercase;
+    }
